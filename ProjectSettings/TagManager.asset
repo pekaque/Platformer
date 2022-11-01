@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Barrel
+  - SilverCoin
+  - GoldenCoin
+  - ScoreText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background(0)
+  - Environment(1)
+  - EnvironmentEffects(2)
+  - LevelGround(3)
+  - LevelGrass(4)
+  - TrapsAndObstacles(5)
+  - HelpingObjects(6)
+  - Hero(7)
+  - Collectables(8)
+  - ScoreText(9)
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background(0)
+    uniqueID: 911625721
+    locked: 0
+  - name: Environment(1)
+    uniqueID: 2146288131
+    locked: 0
+  - name: EnvironmentEffects(2)
+    uniqueID: 1175169899
+    locked: 0
+  - name: LevelGround(3)
+    uniqueID: 645696587
+    locked: 0
+  - name: LevelGrass(4)
+    uniqueID: 3257162159
+    locked: 0
+  - name: TrapsAndObstacles(5)
+    uniqueID: 219660605
+    locked: 0
+  - name: HelpingObjects(6)
+    uniqueID: 2762786685
+    locked: 0
+  - name: Hero(7)
+    uniqueID: 2016163893
+    locked: 0
+  - name: Collectables(8)
+    uniqueID: 2489227845
+    locked: 0
