@@ -9324,7 +9324,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 3
-  _jumpSpeed: 5
+  _jumpSpeed: 8
   _groundCheck: {fileID: 1722326995}
 --- !u!114 &1737833172
 MonoBehaviour:
